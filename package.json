@@ -1,0 +1,13 @@
+{
+  "name": "grayquest-website",
+  "version": "1.0.0",
+  "description": "Gray Quest - Software & IT Services for Financial Firms",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": ["grayquest", "financial", "software", "it-services"],
+  "author": "Gray Quest",
+  "license": "MIT"
+}
